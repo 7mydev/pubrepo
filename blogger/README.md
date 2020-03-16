@@ -16,3 +16,7 @@ https://www.youtube.com/watch?v=zSzq4CCj8yU
 https://yourlisten.com/upload
 </br>
 </br>
+Sample Sri Lanka Blogger
+https://lokewate1.blogspot.com/
+https://adanewstv2.blogspot.com/
+</br>
