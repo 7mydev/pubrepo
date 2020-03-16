@@ -2,6 +2,8 @@ Scrollbars For Code Prettified Using Google-code-prettify.pdf
 </br>
 HowToAddLineNumbersToAllLinesInGooglePrettify.pdf
 </br>
+GooglePrettifyLineColorBeyondVisibleArea-PreScrollable.pdf
+</br>
 </br>
 VIP:How To add Mp3 Audio Video Player in Blogger Post
 </br>
